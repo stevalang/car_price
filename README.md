@@ -50,7 +50,7 @@ Average Location Temperature (integer)
 ![plot](images/hist_num_cols.png)
 
 ### Feature importance Analysis
-![plot](feature_importance.png)
+![plot](images/feature_importance.png)
 
 ## Conclusion
 
