@@ -134,7 +134,7 @@ Odometer and the year variabes are the most important
 ### Linear Regression
 ![plot](images/residual_pred.png)
 ![plot](images/res_pred.png)
-
+heteroscedasticity
 
 ## Conclusion
 
@@ -145,3 +145,13 @@ Car price prediction can be a challenging task due to the high number of attribu
 
 ## Next Steps
 Tuning the parameters of the models
+Applying Kfold cross validation
+Grid Search and optimize the parameters
+Explorer more the feature importance and do more feature engineering
+
+
+## Technologies Used
+* Numpy
+* Pandas
+* Matplotlib
+* Seaborn
