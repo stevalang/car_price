@@ -50,7 +50,7 @@ Contain 50 000 used vehicle offers from craigslist.org
 * County (categorical)
 
 
-I used craper which utilized python and requestsHTML to take every used car for sale form every North American Craiglist website. Saved the data in db file using sqlite and after that loaded into pandas data frame.
+I used scraper which utilized python and requestsHTML to take every used car for sale form every North American Craiglist website. Saved the data in db file using sqlite and after that loaded into pandas data frame.
 39 unique manufacturers, 6 unique conditions, and 4 car sizes plus 30 different cities.
 
 ##### 4 Factors:
